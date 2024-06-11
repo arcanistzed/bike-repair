@@ -43,7 +43,7 @@ export function Hero({ book }: Readonly<{ book: () => void }>) {
 					<img
 						alt="Bike Repair"
 						className="rounded-xl object-cover h-full"
-						src="/bike-repair.jpg"
+						src="/bike-repair/bike-repair.jpg"
 					/>
 				</div>
 			</div>
